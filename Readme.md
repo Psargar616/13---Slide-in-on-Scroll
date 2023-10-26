@@ -1,7 +1,7 @@
 # Day 13 of JS30 
 
-learned how to build a slide in on scroll, when you slide down the images,
-the images will sort of slide
+learned how to build a slide in on scroll, when you slide up / down the webpage,
+the images will slide in and out.
 
 ## screenshots
 
